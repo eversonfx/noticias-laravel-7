@@ -1,0 +1,81 @@
+.invisible-one {
+    display: none;
+}
+
+.invalid-feedback {
+    color: red;
+    font-size: 12px;
+}
+
+.margin-vertical {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.img-new-show {
+    border: 1px solid #ddd; /* Gray border */
+    float: left;
+    margin: 0.1%;
+    border-radius: 4px;  /* Rounded border */
+    padding: 5px; /* Some padding */
+    height: 150px;
+    width: 200px; /* Set a small width */
+  }
+  
+  /* Add a hover effect (blue shadow) */
+  .img-new-show:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+
+  .img-caption-size {
+    height: 150px;
+    width: 200px; /* Set a small width */
+  }
+
+
+
+  /* Formatação de PDF */
+  .img-logo-pdf {
+    height: 80px;
+    width: 100px; /* Set a small width */
+  }
+
+  .table-data {
+    width: 700px;
+    table-layout: fixed; 
+    border-collapse: collapse;
+    margin: 5px;
+    font-size: 10px
+  }
+
+  .table-data td,th {
+    border: 1px solid black;
+    padding-left: 3px;
+    overflow: hidden;
+  }
+
+  .table-align-center {
+    text-align: center;
+  }
+
+  .table-border {
+    border-width: thin;
+    border-style: solid;
+  }
+
+.font-prefeitura-principal {
+  font-size: 20px;
+}
+
+.font-secretaria-principal {
+  font-size: 16px;
+}
+
+.font-vigilancia-principal {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.font-nroautotermo {
+  font-size: 19px;
+}

@@ -1,0 +1,65 @@
+  /* Formatação de PDF */
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .img-logo-pdf {
+    height: 80px;
+    width: 100px; /* Set a small width */
+  }
+
+  .table-header {
+    width: 700px;
+  }
+  .table-header td,th {
+    text-align: center;
+  }
+
+  .table-data {
+    width: 700px;
+    table-layout: fixed; 
+    border-collapse: collapse;
+    margin-top: 10px;
+    font-size: 12px
+  }
+
+  .table-data td,th {
+    border: 1px solid black;
+    padding-left: 3px;
+    overflow: hidden;
+  }
+
+  .border-right-divisor {
+    border-right: 1px solid black;
+  }
+
+  .table-align-center {
+    text-align: center;
+  }
+
+  .table-border {
+    border-width: thin;
+    border-style: solid;
+  }
+
+.font-prefeitura-principal {
+  font-size: 20px;
+}
+
+.font-secretaria-principal {
+  font-size: 16px;
+}
+
+.font-vigilancia-principal {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.font-nroautotermo {
+  font-size: 19px;
+}
+
+.font-small-signatures {
+  font-size: 11px;
+  text-align: center;
+}

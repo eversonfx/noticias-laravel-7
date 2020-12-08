@@ -1,0 +1,104 @@
+.logo-img {
+    width: 125px;
+    height: 90px;
+}
+
+.logo-img-sm {
+    width: 84px;
+    height: 60px;
+}
+
+.margin-vertical {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.trending-vertical-margin {
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+}
+
+.news-vertical-margin {
+    margin-top: 10%;
+}
+
+.news-home-size-top {
+    width:750px;
+    height: 400px;
+}
+
+.news-home-size {
+    width:240px;
+    height: 160px;
+}
+
+.center-element {
+    margin-top: 1%;
+    margin-left: 25%;
+    width: 50%;
+}
+
+.engenharia_trabaslho_social_logo {
+    margin: auto;
+    width: 40%;
+    height: 200px;
+    padding: 10px;
+    border: 1px solid #ddd; /* Gray border */
+    display: block;
+    border-radius: 4px;  /* Rounded border */
+    padding: 5px; /* Some padding */
+  }
+  
+  /* Add a hover effect (blue shadow) */
+  .img-new-show:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+
+.img-new-show {
+    margin-left: 2%;
+    width: 300px;
+    height: 250px;
+    padding: 10px;
+    border: 1px solid #ddd; /* Gray border */
+    float:left;
+    border-radius: 4px;  /* Rounded border */
+    padding: 5px; /* Some padding */
+  }
+  
+  /* Add a hover effect (blue shadow) */
+  .img-new-show:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+
+   /* Style the list */
+ul.breadcrumb {
+    padding: 10px 16px;
+    list-style: none;
+    background-color: #eee;
+  }
+  
+  /* Display list items side by side */
+  ul.breadcrumb li {
+    display: inline;
+    font-size: 13px;
+  }
+  
+  /* Add a slash symbol (/) before/behind each list item */
+  ul.breadcrumb li+li:before {
+    padding: 8px;
+    color: black;
+    content: "/\00a0";
+  }
+  
+  /* Add a color to all links inside the list */
+  ul.breadcrumb li a {
+    font-size: 13px;
+    color: #0275d8;
+    text-decoration: none;
+  }
+  
+  /* Add a color on mouse-over */
+  ul.breadcrumb li a:hover {
+    color: #01447e;
+    text-decoration: underline;
+  } 
