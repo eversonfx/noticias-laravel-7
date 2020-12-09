@@ -50,23 +50,23 @@
                 </p>
                 <div class="links w-row">
                     <div class="column w-col w-col-4">
-                        <div class="text-block-2">Connect</div>
+                        <div class="text-block-2">Contato</div>
                         <ul role="list" class="list w-list-unstyled">
                             <li>
-                                <a href="#">Blog</a>
+                                <a target="_blank" href="https://www.linkedin.com/in/everson-felix-leite">Linkedin</a>
                             </li>
                             <li>
-                                <a href="#">Email</a>
+                                <a href="mailto:eversonfelix_mb@hotmail.com">Email</a>
                             </li>
                             <li>
-                                <a href="#">Newsletter</a>
+                                <a target="_blank" href="https://github.com/eversonfx">Github</a>
                             </li>
                         </ul>
                     </div>
                     <div class="column-2 w-col w-col-4">
-                        <div class="text-block-2">social</div>
+                        <!-- <div class="text-block-2">social</div>
                         <ul role="list" class="list w-list-unstyled">
-                            <li>
+                            <!-- <li>
                                 <a href="#">Twitter</a>
                             </li>
                             <li>
@@ -74,13 +74,13 @@
                             </li>
                             <li>
                                 <a href="#">Dribbble</a>
-                            </li>
-                        </ul>
+                            </li> -->
+                        </ul> -->
                     </div>
                     <div class="w-col w-col-4">
-                        <div class="text-block-2">network</div>
+                        <!-- <div class="text-block-2">network</div>
                         <ul role="list" class="list w-list-unstyled">
-                            <li>
+                            <!-- <li>
                                 <a href="#">Link One</a>
                             </li>
                             <li>
@@ -88,8 +88,8 @@
                             </li>
                             <li>
                                 <a href="#">Link Three</a>
-                            </li>
-                        </ul>
+                            </li> -->
+                        </ul> -->
                     </div>
                 </div>
                 <div class="credit">

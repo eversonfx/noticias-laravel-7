@@ -29,7 +29,7 @@
     <link href="{{ asset('css/adm/styles.css') }}" rel="stylesheet">
 
     <link href="{{ asset('css/adm/customstyleadm.css') }}" rel="stylesheet">
-    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('img/favicon.ico') }}">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('img/devicon.png') }}">
 
 </head>
 
