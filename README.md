@@ -1,6 +1,7 @@
 <h3>Projeto de Exibição construído em Laravel 7</h3>
 <p>Consiste em uma página com minhas informações e um link para um CRUD de Notícias. É necessário realizar migrate e seed da base de dados em MySQL</p>
 <ul>
+<li>Deploy de Projeto Laravel: https://pt.stackoverflow.com/questions/136163/deploy-de-projeto-laravel-pelo-git</li>
 <li>Criar BD com o nome <i>"projetoexibicao"</i></li>
 <li>php artisan migrate:refresh --seed</li>
 <li>Usuário login: admin@admin.com<br>Senha: admin</li>

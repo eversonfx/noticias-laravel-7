@@ -64,32 +64,8 @@
                         </ul>
                     </div>
                     <div class="column-2 w-col w-col-4">
-                        <!-- <div class="text-block-2">social</div>
-                        <ul role="list" class="list w-list-unstyled">
-                            <!-- <li>
-                                <a href="#">Twitter</a>
-                            </li>
-                            <li>
-                                <a href="#">Instagram</a>
-                            </li>
-                            <li>
-                                <a href="#">Dribbble</a>
-                            </li> -->
-                        </ul> -->
                     </div>
                     <div class="w-col w-col-4">
-                        <!-- <div class="text-block-2">network</div>
-                        <ul role="list" class="list w-list-unstyled">
-                            <!-- <li>
-                                <a href="#">Link One</a>
-                            </li>
-                            <li>
-                                <a href="#">Link Two</a>
-                            </li>
-                            <li>
-                                <a href="#">Link Three</a>
-                            </li> -->
-                        </ul> -->
                     </div>
                 </div>
                 <div class="credit">
