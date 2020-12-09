@@ -1,3 +1,11 @@
+<h3>Projeto de Exibição construído em Laravel 7</h3>
+<p>Consiste em uma página com minhas informações e um link para um CRUD de Notícias. É necessário realizar migrate e seed da base de dados em MySQL</p>
+<ul>
+<li>Criar BD com o nome <i>"projetoexibicao"</i></li>
+<li>php artisan migrate:refresh --seed</li>
+<li>Usuário login: admin@admin.com<br>Senha: admin</li>
+</ul>
+<hr/>
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
